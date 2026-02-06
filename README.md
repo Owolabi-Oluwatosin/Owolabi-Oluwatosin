@@ -1,11 +1,47 @@
-- 👋 Hi, I’m @Daniel
-- 👀 I develop web and mobile applications using: React Native, Kotlin with Jetpack Compose, React.js, Next.js, Nest.js, Ktor, Node.js, PostgreSQL, MongoDB, Express.js, TailwindCSS, and Redux.
-- 👀 I am a highly skilled developer with expertise in React Native, React, Redux, Next.js, Node.js, and Tailwind CSS, but not limited to that tech stack. And I have helped many clients to integrate third-party API and serverless functions such as Strapi, Sanity, Netlify, Weather API, Google API, YouTube API, etc in both React.Js and Next.Js web applications.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a viable project
-- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/owolabi-oluwatosin/ or email: daniel.t.owolabi@gmail.com
+# 👋 Hi, I'm Owolabi Oluwatosin Daniel
 
-<!---
-Owolabi-Oluwatosin/Owolabi-Oluwatosin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer building real-time systems and scalable web applications.
+
+## 🚀 What I Do
+
+Building production-ready apps with modern tech. Currently working on **PlayZeet** — a live sports betting platform with real-time updates, complex transaction logic, and 25+ sports integrations.
+
+## 💻 Tech Stack
+
+**Frontend:**
+- ⚛️ React.js / Next.js
+- 📱 React Native / Kotlin
+- 🎨 TypeScript
+- 🎯 Redux Toolkit / Zustand
+- 💨 Tailwind CSS / Vite
+
+**Backend:**
+- 🟢 Node.js / Nest.js / Ktor / Go
+- 🐘 PostgreSQL
+- 🔴 Redis
+- 🔥 Firebase / Supabase
+- 🔌 WebSockets
+
+**Tools & More:**
+- 🐳 Docker
+- ☁️ AWS / Vercel / Render
+- 🌐 REST APIs / Third-party integrations
+- 🔍 SEO optimization
+- 🌍 i18next (internationalization)
+
+## 🔨 Currently Building
+
+- Real-time betting systems with WebSocket architecture
+- Streaming metadata platforms
+- Social applications with live features
+- API integrations and data pipelines
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/owolabi-oluwatosin/)
+- 🎯 [Upwork](https://www.upwork.com/freelancers/~017f49e3fd7ac7a273?mp_source=share)
+- 📧 [Email](mailto:daniel.t.owolabi@gmail.com)
+
+---
+
+💡 **Open to:** Freelance projects, collaboration, and interesting technical challenges
