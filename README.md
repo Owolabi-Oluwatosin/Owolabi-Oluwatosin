@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Owolabi Oluwatosin Daniel
+# 👋 Hi, I'm [Owolabi Oluwatosin Daniel](https://www.plarda.com/)
 
 Full-stack developer building real-time systems and scalable web applications.
 
