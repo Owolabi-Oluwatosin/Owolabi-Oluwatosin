@@ -13,7 +13,7 @@ Building production-ready apps with modern tech. Currently working on **PlayZeet
 - 📱 React Native / Kotlin
 - 🎨 TypeScript
 - 🎯 Redux Toolkit / Zustand
-- 💨 Tailwind CSS / Vite
+- 💨 Tailwind CSS / Shadcn/ui / Vite
 
 **Backend:**
 - 🟢 Node.js / Nest.js / Ktor / Go
